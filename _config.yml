@@ -12,4 +12,4 @@ file: "/sitemap.xml"
 include: [".well-known"]
 exclude: ["font", "vendor"]
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
