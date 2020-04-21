@@ -11,3 +11,5 @@ sitemap:
 file: "/sitemap.xml"
 include: [".well-known"]
 exclude: ["font", "vendor"]
+
+theme: jekyll-theme-dinky
